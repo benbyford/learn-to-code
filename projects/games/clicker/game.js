@@ -12,7 +12,7 @@ $(function() {
 	var gameStage = "init";
 	var messageContainer = $("#messageContainer");
 	var scoreContainer = $("#scores");
-	var message = "Click to start";
+	var message = "Click to setup players, then again to start the game";
 	var playerCount = 0;
 	var players = [];
 	var currentPlayerNum = 0;
