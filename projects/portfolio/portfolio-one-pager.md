@@ -30,9 +30,9 @@ The **demo** is at [j.mp/html-css-portfolio-demo](http://j.mp/html-css-portfolio
 
 ## Step by step
 
-Go to [thimble.mozilla.org](https://thimble.mozilla.org/) and sign up (it's free).
+Go to [https://thimbleprojects.org/bbyford/465240/](https://thimbleprojects.org/bbyford/465240/) and **click remix**.
 
-Then log in and click on `Start a project from scratch`.
+Sign up (it's free).
 
 ### 1. Content first
 
