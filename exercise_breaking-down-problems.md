@@ -1,5 +1,5 @@
 # Breaking down problems in code
-## planning
+## Planning
 
 Before we start coding, we can look at the problem we wish to create and breakdown it down into smaller parts. By doing this we can take a large project and turn it into smaller tasks or questions that we need answering.
 
