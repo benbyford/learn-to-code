@@ -1,5 +1,5 @@
 # Breaking down problems in code
-## Task / question list
+## planning
 
 Before we start coding, we can look at the problem we wish to create and breakdown it down into smaller parts. By doing this we can take a large project and turn it into smaller tasks or questions that we need answering.
 
@@ -13,7 +13,7 @@ Lets presume we know how to make a basic website using HTML and CSS, but perhaps
 - ? Research how to make links call, email and bring up a map ?
 - Implement research into code
 
-## Questions need answers
+## Task / question list
 
 It is often tempting, especially when you're excited to get started on a project, to dive straight in and start coding. Sometime this is fine: when you have thought through before-hand what is required for the project to function. However, it can often be of benefit to first think about each element of the project or problem and create a task list. This will allow you to see what you do or don't know about the problem area and how it should be solved.
 
